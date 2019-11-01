@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: gabeeramo1515.github.io
+Token: 033ca36cfa734fd56550e7ff77eccca94b0f55f94580f2dbadd60a9efe5169a0
