@@ -1,3 +1,4 @@
 function runcode() { 
-    document.writeprompt("Say something 4head");
+    prompt("Say something 4head");
+    document.write(prompt)
 }
