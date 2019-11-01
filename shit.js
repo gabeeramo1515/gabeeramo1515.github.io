@@ -1,3 +1,5 @@
 function runcode() {
-    alert("stinkie");
+    prompt("Say something 4head");
 }
+
+document.write(prompt("Say something 4head"));
